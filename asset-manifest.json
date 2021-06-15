@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/wedding/static/css/main.84ba2962.chunk.css",
+    "main.js": "/wedding/static/js/main.ca1052bb.chunk.js",
+    "main.js.map": "/wedding/static/js/main.ca1052bb.chunk.js.map",
+    "runtime-main.js": "/wedding/static/js/runtime-main.b9a6ac2b.js",
+    "runtime-main.js.map": "/wedding/static/js/runtime-main.b9a6ac2b.js.map",
+    "static/js/2.4955334a.chunk.js": "/wedding/static/js/2.4955334a.chunk.js",
+    "static/js/2.4955334a.chunk.js.map": "/wedding/static/js/2.4955334a.chunk.js.map",
+    "static/js/3.1cea4797.chunk.js": "/wedding/static/js/3.1cea4797.chunk.js",
+    "static/js/3.1cea4797.chunk.js.map": "/wedding/static/js/3.1cea4797.chunk.js.map",
+    "index.html": "/wedding/index.html",
+    "static/css/main.84ba2962.chunk.css.map": "/wedding/static/css/main.84ba2962.chunk.css.map",
+    "static/js/2.4955334a.chunk.js.LICENSE.txt": "/wedding/static/js/2.4955334a.chunk.js.LICENSE.txt",
+    "static/media/back.03875f52.png": "/wedding/static/media/back.03875f52.png",
+    "static/media/AllCards.css": "/wedding/static/media/card1.b36103ed.jpg",
+    "static/media/dress_code.ed44d143.jpeg": "/wedding/static/media/dress_code.ed44d143.jpeg",
+    "static/media/dress_icon.ea961e2f.png": "/wedding/static/media/dress_icon.ea961e2f.png",
+    "static/media/invitation.bbfdc20c.png": "/wedding/static/media/invitation.bbfdc20c.png",
+    "static/media/link.7e0155a8.png": "/wedding/static/media/link.7e0155a8.png",
+    "static/media/placeholder.995995d4.png": "/wedding/static/media/placeholder.995995d4.png",
+    "static/media/play.177e78d1.png": "/wedding/static/media/play.177e78d1.png",
+    "static/media/prev.226cb0ce.jpg": "/wedding/static/media/prev.226cb0ce.jpg",
+    "static/media/send.61250746.png": "/wedding/static/media/send.61250746.png",
+    "static/media/ticket.2c622a86.png": "/wedding/static/media/ticket.2c622a86.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9a6ac2b.js",
+    "static/js/2.4955334a.chunk.js",
+    "static/css/main.84ba2962.chunk.css",
+    "static/js/main.ca1052bb.chunk.js"
+  ]
+}
